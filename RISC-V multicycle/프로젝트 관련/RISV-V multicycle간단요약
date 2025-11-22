@@ -1,0 +1,2 @@
+RISC-V multicycle을 구현하고 만든 cpu를 가지고 amba-bus를 붙혀 동작을 확인 후 검증 하는 프로젝특
+
